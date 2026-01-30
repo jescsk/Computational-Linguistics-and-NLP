@@ -1,0 +1,4 @@
+lyricsgenius~=3.7.5
+nltk~=3.9.2
+matplotlib
+pandas
