@@ -1,5 +1,8 @@
-# LSCI220
+# Computational Linguistics and Natural Language Processing
 
-Repository of LSCI220 assignments for documentation and version control.
+An exploration of natural language processing concepts including pre-processing, text analytics, lexical annotation, and language models in order to understand how language is represented computationally, with an emphasis on natural language processing libraries.
 
-All content written by Noppachon Chaisongkhram.
+Contents extracted from academic work:
+1. DreamWorks Animation Corpus Analysis
+2. Scientific Texts vs. Literary Fiction
+3. Narrative & Storytelling in Musical Lyrics
